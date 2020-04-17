@@ -1,0 +1,13 @@
+C:\repos\MenorMasCercano\MenorMasCercano\bin\Debug\netcoreapp3.1\MenorMasCercano.exe
+C:\repos\MenorMasCercano\MenorMasCercano\bin\Debug\netcoreapp3.1\MenorMasCercano.deps.json
+C:\repos\MenorMasCercano\MenorMasCercano\bin\Debug\netcoreapp3.1\MenorMasCercano.runtimeconfig.json
+C:\repos\MenorMasCercano\MenorMasCercano\bin\Debug\netcoreapp3.1\MenorMasCercano.runtimeconfig.dev.json
+C:\repos\MenorMasCercano\MenorMasCercano\bin\Debug\netcoreapp3.1\MenorMasCercano.dll
+C:\repos\MenorMasCercano\MenorMasCercano\bin\Debug\netcoreapp3.1\MenorMasCercano.pdb
+C:\repos\MenorMasCercano\MenorMasCercano\obj\Debug\netcoreapp3.1\MenorMasCercano.csprojAssemblyReference.cache
+C:\repos\MenorMasCercano\MenorMasCercano\obj\Debug\netcoreapp3.1\MenorMasCercano.csproj.CoreCompileInputs.cache
+C:\repos\MenorMasCercano\MenorMasCercano\obj\Debug\netcoreapp3.1\MenorMasCercano.AssemblyInfoInputs.cache
+C:\repos\MenorMasCercano\MenorMasCercano\obj\Debug\netcoreapp3.1\MenorMasCercano.AssemblyInfo.cs
+C:\repos\MenorMasCercano\MenorMasCercano\obj\Debug\netcoreapp3.1\MenorMasCercano.dll
+C:\repos\MenorMasCercano\MenorMasCercano\obj\Debug\netcoreapp3.1\MenorMasCercano.pdb
+C:\repos\MenorMasCercano\MenorMasCercano\obj\Debug\netcoreapp3.1\MenorMasCercano.genruntimeconfig.cache
