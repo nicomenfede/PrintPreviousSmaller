@@ -8,26 +8,22 @@ namespace MenorMasCercano
         {
 
             // code goes here
-
+            var prevSmall = -1;
             var result = "-1 ";
             for (int i = 1; i < arr.Length; i++)
             {
-                Console.WriteLine(arr[i]);
-                for (int j = i - 1; j == 0; j--)
+                if (arr[i-1] < arr[i])
                 {
-                    Console.WriteLine("j = " + j + " i = " + i);
-                    if (arr[j] < arr[i])
-                    {
-                        result = result + arr[j] + " ";
-                        break;
-                    }
-                    result = result + "-1 ";
-                    Console.WriteLine("Pase");
+                    result += arr[i - 1] + " ";
+                    prevSmall = arr[i - 1];
+                }
+                else
+                {
+                    result += prevSmall + " ";
                 }
             }
 
             return result;
-
         }
         static void Main(string[] args)
         {
